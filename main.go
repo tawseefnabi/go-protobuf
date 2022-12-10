@@ -12,8 +12,8 @@ func main() {
 		Name: "Elliot",
 		Age:  24,
 		SocialFollowers: &SocialFollowers{
-			Youtube: 2500,
-			Twitter: 1400,
+			Youtube: 250,
+			Twitter: 140,
 		},
 	}
 
